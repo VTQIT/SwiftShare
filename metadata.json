@@ -1,0 +1,5 @@
+{
+  "name": "SwiftShare",
+  "description": "A high-speed P2P file sharing application using WebRTC and Socket.io",
+  "requestFramePermissions": []
+}
